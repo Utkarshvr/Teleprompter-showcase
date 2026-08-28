@@ -2,8 +2,15 @@
 
 > A modern teleprompter built for creators who want to record naturally without memorizing scripts.
 
-
 🔒 **This is a commercial app. Source Code is Private.**
+
+  <a href="https://play.google.com/store/apps/details?id=com.utkarshh.budgetwise">
+    <img
+      src="https://res.cloudinary.com/di7b9ifgh/image/upload/v1787934054/ookx3hlpnpxinkyxmn2d.png"
+      alt="Download on Google Play"
+      width="140px"
+    /> 
+  </a>
 
 <p align="center">
   <img src="https://res.cloudinary.com/di7b9ifgh/image/upload/v1785333245/zw6m79ugoutvgikpwkey.png" alt="Teleprompter app preview" width="850"/>
